@@ -2,6 +2,7 @@
 <Urunler date="2026-08-31T10:30:00">
   <Urun>
     <UrunID><![CDATA[1133745422]]></UrunID>
+    <Kdv><![CDATA[20]]></Kdv>
     <Kod><![CDATA[CANLIPETSHOP-HK01]]></Kod>
     <Baslik><![CDATA[Hamster Oyun Kumu Yıkanmış Fırınlanmış 2 KG]]></Baslik>
     <Durum><![CDATA[1]]></Durum>
@@ -43,6 +44,7 @@
   </Urun>
   <Urun>
     <UrunID><![CDATA[1147183077]]></UrunID>
+    <Kdv><![CDATA[20]]></Kdv>
     <Kod><![CDATA[ALGWOOD-HKY01]]></Kod>
     <Baslik><![CDATA[Ahşap Hamster Oyun Kompleksi - Teraslı ve Merdivenli Doğal MDF Kemirgen Oyun Evi - Boyanabilir Model]]></Baslik>
     <Durum><![CDATA[1]]></Durum>
@@ -92,6 +94,7 @@
   </Urun>
   <Urun>
     <UrunID><![CDATA[HBC0000128UOW]]></UrunID>
+    <Kdv><![CDATA[20]]></Kdv>
     <Kod><![CDATA[GOLDWINGS-YM01]]></Kod>
     <Baslik><![CDATA[Premium Muhabbet Kuşu Yemi 1 KG]]></Baslik>
     <Durum><![CDATA[1]]></Durum>
@@ -133,6 +136,7 @@
   </Urun>
   <Urun>
     <UrunID><![CDATA[HBV00000HTJW6]]></UrunID>
+    <Kdv><![CDATA[20]]></Kdv>
     <Kod><![CDATA[BEAKS-MKK01]]></Kod>
     <Baslik><![CDATA[Ballı Muhabbet Kuşu Kraker - 10'lu Paket]]></Baslik>
     <Durum><![CDATA[1]]></Durum>
@@ -174,6 +178,7 @@
   </Urun>
   <Urun>
     <UrunID><![CDATA[4231954]]></UrunID>
+    <Kdv><![CDATA[20]]></Kdv>
     <Kod><![CDATA[KING-KM01]]></Kod>
     <Baslik><![CDATA[King Kuzu Etli ve Pirincli Yetişkin Kedi Maması 15 KG]]></Baslik>
     <Durum><![CDATA[1]]></Durum>
@@ -219,6 +224,7 @@
   </Urun>
   <Urun>
     <UrunID><![CDATA[57989383]]></UrunID>
+    <Kdv><![CDATA[20]]></Kdv>
     <Kod><![CDATA[PETKIT-SP01]]></Kod>
     <Baslik><![CDATA[PetKit Eversweet Max - Max 2 Akıllı Su Pınarı Filtresi 5'li Paket]]></Baslik>
     <Durum><![CDATA[1]]></Durum>
